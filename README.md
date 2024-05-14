@@ -3,10 +3,20 @@ Dataset contain Infrared spectral data in form of Absorbance spectrum for a tota
 feed samples from agricultural residues (Sago, coffee pulp, cocoa pod and corncob). Nutritive 
 values were measured: IVOMD, IVDMD, NDF and ADF. 
 
+## Notes
+
+* Set 1st column as Text. (Sample ID is formula)
+
 
 ## Downloads
 
-* ...
+* [2021.6.24](https://github.com/spectral-datasets/animal-feed/releases/tag/v2021.6.24)
+
+  * [csv.zip](https://github.com/spectral-datasets/animal-feed/releases/download/v2021.6.24/csv.zip)
+ 
+* [raw](https://github.com/spectral-datasets/animal-feed/releases/tag/raw)
+
+  * [r6fjtx943d-1.zip](https://github.com/spectral-datasets/animal-feed/releases/download/raw/r6fjtx943d-1.zip) 
 
 
 ## Citation
